@@ -1,0 +1,30 @@
+﻿  Source.cpp
+c:\users\reoakley\desktop\jic\breakout\breakout\source.cpp(40): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\reoakley\desktop\jic\breakout\breakout\source.cpp(41): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\reoakley\desktop\jic\breakout\breakout\source.cpp(42): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\reoakley\desktop\jic\breakout\breakout\source.cpp(43): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+c:\users\reoakley\desktop\jic\breakout\breakout\source.cpp(92): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\reoakley\desktop\jic\breakout\breakout\source.cpp(93): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\reoakley\desktop\jic\breakout\breakout\source.cpp(96): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\reoakley\desktop\jic\breakout\breakout\source.cpp(97): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\reoakley\desktop\jic\breakout\breakout\source.cpp(129): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\reoakley\desktop\jic\breakout\breakout\source.cpp(132): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\reoakley\desktop\jic\breakout\breakout\source.cpp(204): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+c:\users\reoakley\desktop\jic\breakout\breakout\source.cpp(204): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\reoakley\desktop\jic\breakout\breakout\source.cpp(211): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+c:\users\reoakley\desktop\jic\breakout\breakout\source.cpp(211): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\reoakley\desktop\jic\breakout\breakout\source.cpp(215): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+c:\users\reoakley\desktop\jic\breakout\breakout\source.cpp(215): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\reoakley\desktop\jic\breakout\breakout\source.cpp(227): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+c:\users\reoakley\desktop\jic\breakout\breakout\source.cpp(227): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\reoakley\desktop\jic\breakout\breakout\source.cpp(241): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+c:\users\reoakley\desktop\jic\breakout\breakout\source.cpp(241): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\reoakley\desktop\jic\breakout\breakout\source.cpp(245): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+c:\users\reoakley\desktop\jic\breakout\breakout\source.cpp(245): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\reoakley\desktop\jic\breakout\breakout\source.cpp(252): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+c:\users\reoakley\desktop\jic\breakout\breakout\source.cpp(252): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\reoakley\desktop\jic\breakout\breakout\source.cpp(258): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+c:\users\reoakley\desktop\jic\breakout\breakout\source.cpp(258): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+c:\users\reoakley\desktop\jic\breakout\breakout\source.cpp(262): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+c:\users\reoakley\desktop\jic\breakout\breakout\source.cpp(262): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  BreakOut.vcxproj -> C:\Users\reoakley\Desktop\jic\BreakOut\Debug\BreakOut.exe

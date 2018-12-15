@@ -1,0 +1,10 @@
+﻿  Source.cpp
+c:\users\reoakley\source\repos\pong\pong\source.cpp(9): warning C4129: 'l': unrecognized character escape sequence
+c:\users\reoakley\source\repos\pong\pong\source.cpp(10): warning C4129: 'l': unrecognized character escape sequence
+c:\users\reoakley\source\repos\pong\pong\source.cpp(44): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\reoakley\source\repos\pong\pong\source.cpp(45): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\reoakley\source\repos\pong\pong\source.cpp(93): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\reoakley\source\repos\pong\pong\source.cpp(94): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\reoakley\source\repos\pong\pong\source.cpp(106): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\reoakley\source\repos\pong\pong\source.cpp(121): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  Pong.vcxproj -> C:\Users\reoakley\source\repos\Pong\Debug\Pong.exe

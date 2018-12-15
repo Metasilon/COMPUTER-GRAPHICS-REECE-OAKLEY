@@ -1,0 +1,12 @@
+﻿  main_opengl_texture.cpp
+c:\users\reoakley\source\repos\final_lighting\final_lighting\main_opengl_texture.cpp(69): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\reoakley\source\repos\final_lighting\final_lighting\main_opengl_texture.cpp(70): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\reoakley\source\repos\final_lighting\final_lighting\main_opengl_texture.cpp(71): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\reoakley\source\repos\final_lighting\final_lighting\main_opengl_texture.cpp(73): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\reoakley\source\repos\final_lighting\final_lighting\main_opengl_texture.cpp(74): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\reoakley\source\repos\final_lighting\final_lighting\main_opengl_texture.cpp(75): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\reoakley\source\repos\final_lighting\final_lighting\main_opengl_texture.cpp(77): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\reoakley\source\repos\final_lighting\final_lighting\main_opengl_texture.cpp(78): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\reoakley\source\repos\final_lighting\final_lighting\main_opengl_texture.cpp(79): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\reoakley\source\repos\final_lighting\final_lighting\main_opengl_texture.cpp(107): warning C4305: '+=': truncation from 'double' to 'float'
+  Final_lighting.vcxproj -> C:\Users\reoakley\source\repos\Final_lighting\Debug\Final_lighting.exe
